@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 const gridfsStream = require('gridfs-stream');
-const mongoURI = "mongodb+srv://magarsudarshan77:HZ0lE82JpDK9whWF@cluster0.derb2.mongodb.net/CareerAI";
+const mongoURI = "";
 
 const connectToMongo = async () => {
   try {
